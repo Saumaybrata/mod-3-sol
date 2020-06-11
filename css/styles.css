@@ -1,0 +1,36 @@
+.heading{
+    text-align: center;
+    color: lightslategray;
+}
+.row{
+    width: 100%;
+}
+h2{
+    text-align: center;
+    background-color: lightslategray;
+    color: aliceblue;
+
+}
+
+body{
+    background-color: aliceblue;
+}
+p{
+    background-color: azure;
+    padding: 5px;
+}
+@media (min-width: 768px) {
+    #nav-list
+    {
+        display:none;
+    }
+}
+.navbar-default{
+    background-color: azure;
+    padding-bottom: 10px;
+}
+h1{
+    margin-bottom: 5px;
+    margin-top: 0px;
+    color: lightslategray;
+}
